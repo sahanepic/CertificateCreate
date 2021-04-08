@@ -1,6 +1,4 @@
 package com.sahanbcs.utills;
-
-
 import java.util.logging.Logger;
 
 public class Printer {
